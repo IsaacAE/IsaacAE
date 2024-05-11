@@ -1,18 +1,18 @@
-# Hola, soy Kevin Isaac Alcantara Estrada
+# Hi, I'm Kevin Isaac Alcantara Estrada
 
-¡Bienvenido a mi perfil de GitHub! 👋
+Welcome to my GitHub profile! 👋
 
-## Acerca de mí
-Soy un apasionado estudiante de Ciencias de la Computación en la Facultad de Ciencias de la UNAM. Mi principal interés se centra en el desarrollo de sitios web, especialmente en el ámbito del Frontend. Disfruto creando experiencias de usuario atractivas y funcionales que hacen que la web cobre vida.
+## About Me
+I'm a passionate Computer Science student at the Faculty of Sciences, UNAM. My main interest lies in web development, particularly in the frontend realm. I enjoy creating engaging and functional user experiences that bring the web to life.
 
-## Mis Intereses
-- Desarrollo de sitios web (Frontend)
-- Bases de Datos
-- Programacion Logica
-- POO
+## My Interests
+- Web Development (Frontend)
+- Databases
+- Logic Programming
+- OOP
 
-## Conocimientos
-Poseo habilidades en diferentes lenguajes de programación, incluyendo:
+## Skills
+I have skills in various programming languages, including:
 - SQL
 - Java
 - Python
@@ -20,9 +20,10 @@ Poseo habilidades en diferentes lenguajes de programación, incluyendo:
 - R
 - C++
 
-Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades y mantenerme actualizado en el siempre cambiante mundo del desarrollo web.
+I am constantly learning and exploring new technologies to improve my skills and stay up-to-date in the ever-changing world of web development.
 
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o colaboración en mente.
+Thanks for visiting my profile! Feel free to explore my projects and contact me if you have any questions or collaboration in mind.
+
 
 <!--
 **IsaacAE/IsaacAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
