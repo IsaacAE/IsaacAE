@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 👋
 
 ## About Me
-I'm a passionate Computer Science student at the Faculty of Sciences, UNAM. My main interest lies in web development, particularly in the frontend realm. I enjoy creating engaging and functional user experiences that bring the web to life.
+I'm a Bachelor of Science degree student at the School of Sciences, UNAM. My main interest lies in web development, particularly in the frontend realm. I enjoy creating engaging and functional user experiences that bring the web to life.
 
 ## My Interests
 - Web Development (Frontend)
