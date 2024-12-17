@@ -63,4 +63,3 @@ I'm a Bachelor of Science degree student at the School of Sciences, UNAM. I am e
 
 </div>
 
-
