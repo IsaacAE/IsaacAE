@@ -47,13 +47,16 @@ I'm a Bachelor of Science degree student at the School of Sciences, UNAM. I am e
 
 
 
-<h2>Github stats:</h2> 
+<div align="center">
 
-![IsaacAE's Stats](https://github-readme-stats.vercel.app/api?username=IsaacAE&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+### Github stats:
 
-![IsaacAE's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaacAE&theme=gotham&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacAE&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="IsaacAE's Stats" width="600">
 
-![IsaacAE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAE&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacAE&theme=gotham&hide_border=false" alt="IsaacAE's Streak" width="600">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAE&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="IsaacAE's Top Languages" width="600">
+
 </div>
 
 
