@@ -49,7 +49,7 @@ I'm a Bachelor of Science degree student at the School of Sciences, UNAM. I am e
 
 <div align="center">
 
-### Github stats:
+## Github stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=IsaacAE&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="IsaacAE's Stats" width="600">
 
