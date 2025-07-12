@@ -8,6 +8,7 @@ I'm a Bachelor of Science degree student at the School of Sciences, UNAM. I am e
 - 🌱 I’m currently learning ...
   - Kotlin
   - Typescript
+-I'm working in the implementation of a hybrid algorithm to solve large instances of MTSP
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, I love playing videogames 🎮, listening to music 🎵, and reading manga books 📖.
