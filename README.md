@@ -9,7 +9,8 @@ I'm a Bachelor of Science degree student at the School of Sciences, UNAM. I am e
   - Kotlin
   - Typescript
   - Web development
--I'm working in the implementation of a hybrid algorithm to solve large instances of MTSP
+
+- I'm working on implementing and improving a *hybrid heuristic* to solve large instances of the *Multiple Traveling Salesman Problem* (MTSP).
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, I love playing videogames 🎮, listening to music 🎵, and reading manga books 📖.
